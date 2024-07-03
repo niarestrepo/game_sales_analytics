@@ -1,1 +1,5 @@
 # game_sales_analytics
+
+In an industry as competitive as video games, understanding the factors that contribute to a video game's success is crucial for strategic planning and marketing. This project, conducted for online video game retailer Ice, aims to analyze historical sales data, user reviews, expert ratings, and other attributes of video games to identify patterns and trends that predict a game's success. Using Python for data processing, exploratory analysis and statistical analysis, I will extract useful information to guide future marketing campaigns and project selection.
+
+The dataset provided includes information on game sales, platforms (e.g., Xbox, PlayStation), genres, and ESRB ratings, among other variables, going back to 2016. The goal is to use this data to forecast game sales in 2017, which will allow Ice to optimize its marketing and inventory management strategies. This analysis will also enhance our understanding of the dynamics of the video game market, providing valuable expertise in data-driven decision-making.
